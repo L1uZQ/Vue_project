@@ -8,5 +8,7 @@
 前后端的连接通过axios库的get和post方法与node.js的express框架实现。
 
 在前端获取用户输入的数据
+
 在后端计算平均分、总分
+
 在MySQL数据库中存储数据
